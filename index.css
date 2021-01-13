@@ -1,0 +1,11 @@
+body {
+  background-color: red;
+}
+h1 {
+  text-align: center;
+  font-family: cursive;
+  background-color: green;
+}
+h1:hover {
+  color: pink;
+}
